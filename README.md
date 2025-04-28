@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [repo](https://your-solution-url.com)
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Solution URL: [repo](https://github.com/sudoCodrr/stats-preview-card)
+- Live Site URL: [URL](https://sudocodrr.github.io/stats-preview-card/)
 
 ## My process
 
